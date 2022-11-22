@@ -1,0 +1,19 @@
+body {
+    font-family: 'Dancing Script', cursive;
+    background-color: rgb(39, 11, 11);
+    color: beige;
+    text-align: center;
+}
+li{
+    text-align: left;
+    line-height: 22px;
+    font: size 16%;
+    font-family: 'poppins', sans-serif;
+}
+h1, h3{
+    font-family: 'poppins', sans-serif;
+}
+.picture {
+    border-radius: 100%;
+    width: 200px;
+}
