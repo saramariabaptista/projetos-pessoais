@@ -25,7 +25,9 @@ h1, h3{
     text-align: center;
     text-decoration: none;
     background-color: rgb(77, 27, 27);
-    font-family: 'poppins', sans-serif;   
+    font-family: 'poppins', sans-serif;
+    padding: 15px 50px;
+    border-radius: 12px;
 }
 a {
     text-decoration: none;
